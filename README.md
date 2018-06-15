@@ -1,6 +1,6 @@
 # Titanic-Data-Study
 
-## Background
+## Overview
 - Used Python to explore Titanic passenger data
 - Analyzed passenger survival rate factors like age, gender and P Class
 - Used Jupyter to document the thinking process and findings
